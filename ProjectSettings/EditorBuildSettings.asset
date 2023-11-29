@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Constant Scenes/Initialisation.unity
+    guid: 7225391955cc01449bf6047ba35aa6ed
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/Main Menu.unity
+    guid: 75f0f061ee11e7247b73f6e142d007e1
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/Level Select.unity
+    guid: 4b58d836d3aed3d4e8bf17a081f13c30
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/In-Game UI.unity
+    guid: c6d4448127898b448a5a43ef28a0eb70
+  - enabled: 0
+    path: Assets/Scenes/Testing Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/Levels/Level 0-1.unity
+    guid: 0e7c3af437d04d843b7cd4633317855c
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/Levels/Level 0-2.unity
+    guid: e5d0dc3ba76978d4fa1695ac1d0d2bf5
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/Levels/Level 0-3.unity
+    guid: 6cb4c55fd820b1848b1dafc9e3ea4bdb
+  - enabled: 0
+    path: Assets/Scenes/Gameplay Scenes/Levels/Level 0-4.unity
+    guid: b4e8d453eb792b64c951af33da5783f7
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/End Outro.unity
+    guid: bd68efcbba5ae9348b136293eeda068e
+  - enabled: 0
+    path: Assets/Scenes/Gameplay Scenes/Levels/Level 0-1 Showcase.unity
+    guid: 1e11493e041f95a44a0af7a78250d198
+  - enabled: 0
+    path: Assets/Scenes/Testing Scenes/Enviroment Scene.unity
+    guid: 5e89fe2752c9c5848910a3d4a5fb96b8
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/Tutorial.unity
+    guid: 6ea219ab36584b24280553faa2a98749
+  m_configObjects: {}
